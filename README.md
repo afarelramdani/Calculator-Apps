@@ -2,7 +2,11 @@
 
 #### Built With
 
-[![Kotlin](https://img.shields.io/badge/Android--Studio-4.1.1-green)](https://developer.android.com/studio/install?hl=id)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](kotlin.arg)
+ * [Getting Started Guide](https://kotlinlang.org/docs/tutorials/getting-started.html)
+
+
+[![Android Studio](https://img.shields.io/badge/Android--Studio-4.1.1-green)](https://developer.android.com/studio/install?hl=id)
  * [Getting Started Guide](https://kotlinlang.org/docs/tutorials/getting-started.html)
 
 ## Description
