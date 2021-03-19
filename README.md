@@ -6,7 +6,7 @@
  * [Getting Started Guide](https://kotlinlang.org/docs/tutorials/getting-started.html)
 
 ## Description
-Interface code from Youtalent, Apps build with love
+Build with love
 
 ## Requirements
 
