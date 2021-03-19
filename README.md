@@ -22,6 +22,6 @@ Build with love
  ## How to use the app
 
 1. Open Android Studio
-2. Select the folder project youtalent apss to run
+2. Select the folder project Calculator Apps to run
 3. Press run button in android studio
 4. Finish
